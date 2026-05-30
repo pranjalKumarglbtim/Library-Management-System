@@ -95,16 +95,16 @@ npm run build
 ## Screenshots
 
 ### Dashboard
-![Dashboard](https://placehold.co/800x400/4f46e5/ffffff?text=Dashboard+View)
+![Dashboard](https://raw.githubusercontent.com/pranjalKumarglbtim/Library-Management-System/main/src/assets/screenshot1.png)
 
 ### Book Management
-![Books](https://placehold.co/800x400/10b981/ffffff?text=Book+Management)
+![Books](https://raw.githubusercontent.com/pranjalKumarglbtim/Library-Management-System/main/src/assets/screenshot1.png)
 
 ### Student Portal
-![Student Portal](https://placehold.co/800x400/f59e0b/ffffff?text=Student+Portal)
+![Student Portal](https://raw.githubusercontent.com/pranjalKumarglbtim/Library-Management-System/main/src/assets/screenshot1.png)
 
 ### Authentication
-![Login](https://placehold.co/800x400/8b5cf6/ffffff?text=Login+Page)
+![Login](https://raw.githubusercontent.com/pranjalKumarglbtim/Library-Management-System/main/src/assets/screenshot1.png)
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
