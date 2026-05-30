@@ -2,11 +2,15 @@
 
 ## Overview
 
+![Library Logo](https://img.shields.io/badge/📚-Library%20System-blueviolet?style=for-the-badge)
+
 This is a modern web-based library management system built with React, TypeScript, and Tailwind CSS. It provides complete functionality for managing books, members, and borrowing transactions.
 
 ## Live Demo
 
 **URL**: https://pranjalKumarglbtim.github.io/Library-Management-System/
+
+![Live Demo Badge](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=github-pages)
 
 ## Features
 
@@ -88,7 +92,19 @@ npm run dev
 npm run build
 ```
 
-## Technology Stack
+## Screenshots
+
+### Dashboard
+![Dashboard](https://placehold.co/800x400/4f46e5/ffffff?text=Dashboard+View)
+
+### Book Management
+![Books](https://placehold.co/800x400/10b981/ffffff?text=Book+Management)
+
+### Student Portal
+![Student Portal](https://placehold.co/800x400/f59e0b/ffffff?text=Student+Portal)
+
+### Authentication
+![Login](https://placehold.co/800x400/8b5cf6/ffffff?text=Login+Page)
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
